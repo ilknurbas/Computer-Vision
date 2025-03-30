@@ -3,8 +3,7 @@ This repository contains solutions for various tasks related to computer vision,
  
  Tasks include such topics:
 
-  `#1:` HOG and Single Shot MultiBox Detector (SSD) detector  
-        
+  `#1:` HOG and Single Shot MultiBox Detector (SSD) detector  <br/> 
         This task involves using HOG and SSD to detect objects (e.g., people and bottles) in both pre-recorded GIFs (or videos) and live webcam feeds. The goal is to identify objects in real-time or from a GIF/video, with bounding boxes drawn around the detected objects.
 
   `#2:` Robust line fitting using RANSAC, Matching Harris corner points and Matching (Speeded-Up Robust Features) SURF regions 
