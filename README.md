@@ -16,5 +16,5 @@ This repository contains solutions for various tasks related to computer vision,
         Developed a camera calibration algorithm using Direct Linear Transformation (DLT) to compute the intrinsic and extrinsic parameters of a camera, which is essential for tasks like 3D scene reconstruction and augmented reality applications. Additionally, worked on triangulation techniques to reconstruct 3D points from corresponding 2D points in multiple images, enabling the estimation of real-world coordinates from image data.
 
   **`#5: Fundamental matrix estimation and Two-view structure from motion`**  <br/>  
-        Developed a fundamental matrix estimation method to model the relationship between two camera views and applied structure-from-motion techniques to reconstruct 3D models of scenes from multiple 2D image
+        Developed a fundamental matrix estimation method to model the relationship between two camera views and applied structure-from-motion techniques to reconstruct 3D models of scenes from multiple 2D image.
 
